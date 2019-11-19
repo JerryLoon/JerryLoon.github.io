@@ -1,11 +1,11 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+title: JerryLoon
+SEOTitle: Jerry | Zhu
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: 1149658813@qq.com
+description: "JerryLoon的博客"
+keyword: "JerryLoon, JerryLoon的博客, jerry loon, jerryloon, Python blog"
+url: "http://jerryloon.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
 
